@@ -12,7 +12,7 @@ setup(
     author_email="yan-wyb@foxmail.com",
     maintainer='frank',
     maintainer_email= 'frank@khadas.com',
-    description='A amlogic npu usertool library in khadas VIMs board',
+    description='A amlogic npu usertool library in khadas VIM3 board',
     classifiers=[
         'Intended Audience :: Education',
         'Intended Audience :: Developers',
